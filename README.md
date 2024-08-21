@@ -11,4 +11,4 @@ Using this unblocked version loading times will be slower.
  - git
 
 
-### One liner `git clone https://github.com/flebedev77/Unblock-Google-Doodle.git DoodleUnblocker && cd DoodleUnblocker && npm i && node .`
+### One liner `git clone https://github.com/flebedev77/Unblock-Google-Doodle.git DoodleUnblocker; cd DoodleUnblocker; npm i; node .`
